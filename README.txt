@@ -4,8 +4,7 @@
 
 Description: A collection of modules to enhance your stream
 Made By: Xailran
-Website: https://www.twitch.tv/xailran
-	 https://www.twitter.com/xailran
+Website: https://www.xailran.com/
 
 #####################
 #     Versions      #
@@ -84,7 +83,7 @@ Xailran's Script Bundle (1.3.3)
 Combo Counter (1.0.2)
 
 Paid Scripts:
-Stréamon (https://www.kickstarter.com/projects/xailran/streamlabs-chatbot-pokemon-script?ref=1nv8m4)
+StrÃ©amon (https://www.kickstarter.com/projects/xailran/streamlabs-chatbot-pokemon-script?ref=1nv8m4)
 Advanced Trivia (1.4.1.1) ($15 USD)
 Extra Currency (In development, $25 USD)
 Leaderboard Filter ($10 USD)
